@@ -82,7 +82,7 @@ Me chamo Ronald Santos Brito, tenho 12 anos e moro em Rio Pardo. Apesar de ainda
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ronald-web12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Ronald-web1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 
