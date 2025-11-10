@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Ronald Santos
 
-**`Desenvoverdo Front-End`**
+**`Desenvolvedor Full-stack`**
 
 Me chamo Ronald Santos Brito, tenho 12 anos e moro em Rio Pardo. Apesar de ainda não ter concluído a escola, Mas estou desbravando a linguagem javascript e desenvolvendo a parte visual de um projeto, colocando em prática tudo que venho aprendendo. A Progarmação é minha paixão, e estou sempre buscando aprender mais para transformar conhecimentos em prática.
 <p align="left">
