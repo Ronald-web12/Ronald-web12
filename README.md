@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-stack`**
 
-Me chamo Ronald Santos Brito, tenho 12 anos e moro em Rio Pardo. Apesar de ainda não ter concluído a escola, Mas estou desbravando a linguagem javascript e desenvolvendo a parte visual de um projeto, colocando em prática tudo que venho aprendendo. A Progarmação é minha paixão, e estou sempre buscando aprender mais para transformar conhecimentos em prática.
+Me chamo Ronaldo Santos Brito, tenho 12 anos e moro em Rio Pardo. Ainda não terminei a escola, mas já estou estudando programação com o DevClub, aprendendo e evoluindo a cada dia. Estou criando projetos e Postando para mostra meu aprendizado a cada dia, testando ideias e aplicando tudo que estudo. A programação é minha paixão, e quero transformar tudo que aprendo em prática, crescendo sempre e buscando meu espaço no mundo da tecnologia.
 <p align="left">
     <a href="https://www.instagram.com/_ronald_rpm/">
         <img 
