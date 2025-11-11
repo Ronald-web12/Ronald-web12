@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-stack`**
 
-Me chamo Ronaldo Santos Brito, tenho 12 anos e moro em Rio Pardo. Ainda não terminei a escola, mas já estou estudando programação com o "[DevClub]([https://www.instagram.com/dev_em_dev/](https://aulas.devclub.com.br/m/courses))", aprendendo e evoluindo a cada dia. Estou criando projetos e Postando para mostra meu aprendizado a cada dia, testando ideias e aplicando tudo que estudo. A programação é minha paixão, e quero transformar tudo que aprendo em prática, crescendo sempre e buscando meu espaço no mundo da tecnologia.
+Me chamo Ronaldo Santos Brito, tenho 12 anos e moro em Rio Pardo. Ainda não terminei a escola, mas já estou estudando programação com o "[DevClub](https://aulas.devclub.com.br/m/courses)", aprendendo e evoluindo a cada dia. Estou criando projetos e Postando para mostra meu aprendizado a cada dia, testando ideias e aplicando tudo que estudo. A programação é minha paixão, e quero transformar tudo que aprendo em prática, crescendo sempre e buscando meu espaço no mundo da tecnologia.
 <p align="left">
     <a href="https://www.instagram.com/_ronald_rpm/">
         <img 
